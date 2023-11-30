@@ -1,0 +1,26 @@
+.card{
+    width: fit-content;
+    height: fit-content;
+    display:flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    flex-direction: row;
+    gap:20%;
+    border:3px solid aqua ;
+    border-radius: 5px ;
+    width: 100%;
+    height: 100%;
+ 
+}
+
+.container{
+    background-color: rgb(78, 99, 99);
+    display:flex;
+    justify-content: center;
+    width: fit-content;
+    height: fit-content;
+}
+
+.card-body{
+    font-size: x-large;
+}
